@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/08/20/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2020/08/19/test/</url>
+    <content><![CDATA[<p>测试文件</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>实践论矛盾论读书心得</title>
+    <url>/2020/08/22/%E5%AE%9E%E8%B7%B5%E8%AE%BA-%E7%9F%9B%E7%9B%BE%E8%AE%BA-20200822/</url>
+    <content><![CDATA[<h3 id="0-前言"><a href="#0-前言" class="headerlink" title="0.前言"></a>0.前言</h3><p>我是先阅读《实践论》《矛盾论》介绍及导论，再翻阅两论的</p>
+<p>这两篇文章当中的哲学词汇不少，还并且自己对其出现的历史背景不甚了解</p>
+<p>就简单谈谈阅读时在生活中的应用思考    </p>
+<p>下周计划阅读《毛选.第一卷》一九三六年（含）以前部分，哈哈</p>
+<h3 id="1-矛盾论"><a href="#1-矛盾论" class="headerlink" title="1.矛盾论"></a>1.矛盾论</h3><p>书里面主要讲了这几点：①对立统一②矛盾的普遍性及绝对性③特殊性及相对性（具体问题具体分析）④主要矛盾次要矛盾⑤同一性</p>
+<p>呃，这几个部分在政治考试里面貌似都是考点(￣▽￣)”，下面写些阅读时的收获</p>
+<p>1）在本文中还举了几个局势变化的例子，用以说明矛盾时可以相互转化的，更像是采用一种动态的眼光去看待分析问题；未来局势千变万化，平时也要多多积累知识，预防不可测风险</p>
+<p>2）具体问题具体分析，很久之前就备受一个问题困惑，经过“中国化”的理论和原本的理论究竟是一个东西还是两个东西；当然这一问题是很多人对我们的制度提出批评的一个理由。没想到早在几十年前这个问题就已提出，并给出相应的解答。从生物进化论来讲嘛，一群新物种投入到新环境当中，经过几轮自然淘汰，留下来的只会是适应于当地环境生态的变异</p>
+<p>3）主要矛盾和次要矛盾。我们在处理生活常规任务时，也可进行重要等级的分类；更常见的是另一种模板的工作方法，四象限按照重要度紧急度来划分</p>
+<h3 id="2-实践论"><a href="#2-实践论" class="headerlink" title="2.实践论"></a>2.实践论</h3><p>实践论这一部分和你的想法也差不多；“实践——认识——实践——认识”，最后从初级的感性认识转化到更高等级的理性认识，最后将其再应用到实践当中</p>
+<p>从历史的角度来说，本文好像是批评教条主义的文章，注释当中写的是批判那些否认“马克思主义不是教条而是行动指南”的教条主义者</p>
+<p>话说整体阅读下来，两论好像都是从宏观的角度上来指导读者，在思想上提供相应的思路，并没有给出在具体环境之下应当如何行动，原因之一可能也是担心后人将其奉为圭臬，把事情搞得复杂吧，哈哈</p>
+]]></content>
+  </entry>
+</search>
